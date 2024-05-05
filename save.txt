@@ -1,0 +1,5 @@
+Trauben,156,62
+Orange,121,21
+Kiwi,123,23
+Brot,87,12
+Apfel,120,42
